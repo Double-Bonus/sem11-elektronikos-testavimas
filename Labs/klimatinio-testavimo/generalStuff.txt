@@ -1,0 +1,8 @@
+5.1.1.1.1 Purpose
+This test simulates the exposure of the DUT to low temperatures without electrical operation, e.g. during
+shipment of the system/component. Failure mode is insufficient frost resistance, e.g. the freezing of liquid
+crystal displays.
+5.1.1.1.2 Test method
+Perform the test in accordance with IEC 60068-2-1, Test A, at a temperature of −40 °C for a duration of 24 h
+unless otherwise specified in the DUT specification. The operating mode of the DUT is 1.1, as defined in
+ISO 16750-1
